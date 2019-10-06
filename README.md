@@ -4,4 +4,17 @@
 You need to replace the original file with recurrent.py in the layers folder of keras-2.1.5!
 # High definition picture of prediction effect
 You can see Fig.6.
+# References
+@INPROCEEDINGS{8852073, 
+author={J. {Hu} and W. {Zheng}}, 
+booktitle={2019 International Joint Conference on Neural Networks (IJCNN)}, 
+title={Transformation-gated LSTM: efficient capture of short-term mutation dependencies for multivariate time series prediction tasks}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1-8}, 
+keywords={recurrent neural network;multivariate time series prediction;short-term mutation information}, 
+doi={10.1109/IJCNN.2019.8852073}, 
+ISSN={}, 
+month={July},}
 
